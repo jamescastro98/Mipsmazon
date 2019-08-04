@@ -12,4 +12,4 @@ User checks out, inputs their card information and hits confirm order:
 Likewise the customer order schema is updated in the database as the transaction completes
 ![alt text](Mipsmazon-successful-transaction.png "User checks out, inputs their card information and hits confirm order")
 
-The original repository can be seen [a link](https://github.com/mirzarad/Mipsmazon)here (Note: Because the database was hosted from his computer, all commits were pushed by Mirza).
+The original repository can be seen [here](https://github.com/mirzarad/Mipsmazon) .(Note: Because the database was hosted from his computer, all commits were pushed by Mirza).
